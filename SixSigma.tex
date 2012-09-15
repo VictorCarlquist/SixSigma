@@ -1,28 +1,56 @@
 \documentclass{abnt}
 \input{Base}
 
-\author{
-	Matheus Liberato Domingues da Silva, \texttt{matheusliberatosbs@gmail.com} \and
-	Guilherme Augusto de Macedo, \texttt{gaugustomacedo@gmail.com} \and
-	Victor Hugo Carlquist da Silva, \texttt{victorcarlquist@gmail.com} \and
-	Denis Fournier de Carvalho, \texttt{denao\_carvalho@hotmail.com} 
+%%%%% Dados para criação da capa e folha de rosto %%%%
+\autor{	Denis Fournier de Carvalho, 
+		Guilherme A. de Macedo, 
+		Matheus Liberato D. da Silva e 
+		Victor Hugo Carlquist da Silva
 }
-
-\title{ Sistema Seis Sigma de Produção}
-\date{\today}
+\titulo{Sistema Seis Sigma de Produção}
+\orientador{Avelino Bazanella Junior}
+\comentario{Trabalho apresentado ao Prof. Avelino Bazanela Junior, na disciplina de Administração 
+			presente no $2^{a}$ modulo do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP-CJO.}
+\instituicao{Instituto Federal de Educação, Ciência e Tecnologia de São Paulo -- \textit{campus} Campos do Jordão}
+\local{Campos do Jordão}
+\data{\today}
 
 \begin{document}
-	\maketitle
-	\tableofcontents
+
+	% Para utilizar o formato padrão de capa
+	% da ABNT, substituí o comando \maketitle pelo comando
+	% \capa.
+	\capa
+	
+	\folhaderosto
+	
+	\begin{resumo}
+		Aqui que iremos colocar o resumo do trabalho.
+	\end{resumo}
 
 	\begin{abstract}
 		Your abstract goes here...
 		...
 	\end{abstract}
 	
+	\sumario
+	
 	\chapter {Introdução}
 	
+	Seis Sigma (six-sigma ou $\sigma$-seis) é um programa de melhoria de processo baseado numa 
+	metodologia de solução de problemas composto por cinco etapas: Definição, Medição, Análise, 
+	Melhoria e Controle. Em sua forma mais geral, o Seis Sigma é uma forma de avaliar os níveis 
+	de produção de uma empresa. O Seis Sigma foi inicialmente desenvolvido visando a melhoria nos 
+	processos de manufaturas, porém hoje é utilizado pelas empresas em quaisquer tipos de processos, 
+	incluindo até os processos de TI (Tecnologia da Informação).
+	
+	O conceito do Seis Sigma é estabelecer uma métrica universal para medir os defeitos de um processo. 
+	Essa métrica estabelece que quanto mais alto o nível de sigma, melhores serão os produtos produzidos, 
+	porém quanto menor for o nível de sigma, maior será a quantidade de produtos ruins produzidos pela empresa.
+	
 	\chapter {História}
+	
+	O Seis Sigma foi inicialmente desenvolvido pela Motorola.
 	
 	\chapter {Níveis de Sigma}
 		\section {Introdução}
@@ -77,5 +105,10 @@
 			\section {DMAIC vs DMADV}
 	
 	\chapter {Conclusão}
+	
+	%\chapter{Referências Bibliográficas}
+	\begin{thebibliography}{99}
+		\bibitem{teste} teste
+	\end{thebibliography}
 
 \end{document}
