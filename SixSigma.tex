@@ -35,6 +35,10 @@
 	
 	\sumario
 	
+	\listadetabelas
+	
+	\listadefiguras
+	
 	\chapter {Introdução}
 	
 	Seis Sigma (six-sigma ou $\sigma$-seis) é um programa de melhoria de processo baseado numa 
@@ -62,7 +66,11 @@
 			    \begin{equation}
 			       Z = \frac{x - \mu}{\sigma}
 		        \end{equation}
-		     x = ponto que se deseja converter em Z; $\mu$ =  média da normal original ; $\sigma$ = desvio padrão da normal original
+		     	\begin{itemize}
+		     		\item[$x$] ponto que se deseja converter em $Z$;
+		     		\item[$\mu$] média da normal original;
+		     		\item[$\sigma$] desvio padrão da normal original.
+		     	\end{itemize}
 			\end{center}
 			
 			 
@@ -82,6 +90,30 @@
 			    \item {6 Sigma}
 			        \subitem O 6 Sigma tolera até 3,4 (PPM), possuindo um fator de sucesso do processo de 99,99966\%.
 			\end{itemize}
+			
+			Dessa forma os níveis de qualidade do sigma podem ser melhores visualizados com base na tabela a seguir:
+			\begin{table}[h]
+				\centering
+				\rowcolors{2}{gray!10}{white}
+
+				\begin{tabular}{rcr}
+					\toprule
+					Sigma & Problemas por Milhão (PPM) & Porcentagem (\%) \\
+					\midrule
+					 1 & 697700	& 30,23 	\\
+					 2 & 308700 & 69,13 	\\
+					 3 & 66810 	& 93,32 	\\
+					 4 & 6210 	& 99,379 	\\
+					 5 & 233 	& 99,9767 	\\
+					 6 & 3,4 	& 99,99966 	\\
+					\bottomrule		
+				\end{tabular}
+	
+				\label{tab_niveisSigma}
+				\caption{Níveis de Sigma.}
+				
+			\end{table}
+
 		\section {Curva Normal} 
 		    
 		\section {Vantagens do 6 Sigma}

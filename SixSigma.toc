@@ -1,49 +1,51 @@
 \select@language {brazil}
-\contentsline {chapter}{\numberline {1}Introdução}{7}
-\contentsline {chapter}{\numberline {2}História}{8}
-\contentsline {chapter}{\numberline {3}Níveis de Sigma}{9}
-\contentsline {section}{\numberline {3.1}Introdução}{9}
-\contentsline {section}{\numberline {3.2}Níveis de Qualidade}{9}
-\contentsline {section}{\numberline {3.3}Curva Normal}{10}
-\contentsline {section}{\numberline {3.4}Vantagens do 6 Sigma}{10}
-\contentsline {chapter}{\numberline {4}Metodologias}{11}
-\contentsline {section}{\numberline {4.1}Introdução}{12}
-\contentsline {section}{\numberline {4.2}DMAIC}{12}
-\contentsline {subsection}{\numberline {4.2.1}Definir}{12}
-\contentsline {subsubsection}{\numberline {4.2.1.1}Objetivo}{12}
-\contentsline {subsubsection}{\numberline {4.2.1.2}Entendendo o processo}{12}
-\contentsline {subsubsection}{\numberline {4.2.1.3}Preparação para a próxima fase}{12}
-\contentsline {subsection}{\numberline {4.2.2}Medir}{12}
-\contentsline {subsubsection}{\numberline {4.2.2.1}Objetivo}{12}
-\contentsline {subsubsection}{\numberline {4.2.2.2}Mapeando processo}{12}
-\contentsline {subsubsection}{\numberline {4.2.2.3}Coletando os dados}{12}
-\contentsline {subsubsection}{\numberline {4.2.2.4}Analisando os dados coletados}{12}
-\contentsline {subsubsection}{\numberline {4.2.2.5}Calculando o nível de Sigma}{12}
-\contentsline {subsubsection}{\numberline {4.2.2.6}Preparação para a próxima fase}{12}
-\contentsline {subsection}{\numberline {4.2.3}Analisar}{12}
-\contentsline {subsubsection}{\numberline {4.2.3.1}Melhorar}{12}
-\contentsline {subsubsection}{\numberline {4.2.3.2}Objetivo}{12}
-\contentsline {subsubsection}{\numberline {4.2.3.3}Achando a causa raiz}{12}
-\contentsline {subsubsection}{\numberline {4.2.3.4}Diagrama de causa e efeito}{12}
-\contentsline {subsubsection}{\numberline {4.2.3.5}Confirmando a causa raiz}{12}
-\contentsline {subsubsection}{\numberline {4.2.3.6}Preparação para a próxima fase}{12}
-\contentsline {subsection}{\numberline {4.2.4}Melhorar}{12}
-\contentsline {subsubsection}{\numberline {4.2.4.1}Objetivo}{12}
-\contentsline {subsubsection}{\numberline {4.2.4.2}Identificando a solução}{12}
-\contentsline {subsubsection}{\numberline {4.2.4.3}Selecionando a solução}{12}
-\contentsline {subsubsection}{\numberline {4.2.4.4}Implementando a solução}{12}
-\contentsline {subsubsection}{\numberline {4.2.4.5}Avaliando as melhorias}{12}
-\contentsline {subsubsection}{\numberline {4.2.4.6}Preparação para a próxima fase}{12}
-\contentsline {subsection}{\numberline {4.2.5}Controlar}{12}
-\contentsline {subsubsection}{\numberline {4.2.5.1}Objetivo}{12}
-\contentsline {subsubsection}{\numberline {4.2.5.2}Padronizando e documentando}{12}
-\contentsline {subsubsection}{\numberline {4.2.5.3}Monitorando o processo}{12}
-\contentsline {section}{\numberline {4.3}DMADV}{12}
-\contentsline {subsection}{\numberline {4.3.1}Definir}{12}
-\contentsline {subsection}{\numberline {4.3.2}Medir}{12}
-\contentsline {subsection}{\numberline {4.3.3}Analisar}{12}
-\contentsline {subsection}{\numberline {4.3.4}Projetar}{12}
-\contentsline {subsection}{\numberline {4.3.5}Verificar}{12}
-\contentsline {section}{\numberline {4.4}DMAIC vs DMADV}{12}
-\contentsline {chapter}{\numberline {5}Conclusão}{13}
-\contentsline {chapter}{Refer\^encias}{14}
+\contentsline {chapter}{Lista de Tabelas}{}
+\contentsline {chapter}{Lista de Figuras}{}
+\contentsline {chapter}{\numberline {1}Introdução}{9}
+\contentsline {chapter}{\numberline {2}História}{10}
+\contentsline {chapter}{\numberline {3}Níveis de Sigma}{11}
+\contentsline {section}{\numberline {3.1}Introdução}{11}
+\contentsline {section}{\numberline {3.2}Níveis de Qualidade}{11}
+\contentsline {section}{\numberline {3.3}Curva Normal}{12}
+\contentsline {section}{\numberline {3.4}Vantagens do 6 Sigma}{12}
+\contentsline {chapter}{\numberline {4}Metodologias}{13}
+\contentsline {section}{\numberline {4.1}Introdução}{14}
+\contentsline {section}{\numberline {4.2}DMAIC}{14}
+\contentsline {subsection}{\numberline {4.2.1}Definir}{14}
+\contentsline {subsubsection}{\numberline {4.2.1.1}Objetivo}{14}
+\contentsline {subsubsection}{\numberline {4.2.1.2}Entendendo o processo}{14}
+\contentsline {subsubsection}{\numberline {4.2.1.3}Preparação para a próxima fase}{14}
+\contentsline {subsection}{\numberline {4.2.2}Medir}{14}
+\contentsline {subsubsection}{\numberline {4.2.2.1}Objetivo}{14}
+\contentsline {subsubsection}{\numberline {4.2.2.2}Mapeando processo}{14}
+\contentsline {subsubsection}{\numberline {4.2.2.3}Coletando os dados}{14}
+\contentsline {subsubsection}{\numberline {4.2.2.4}Analisando os dados coletados}{14}
+\contentsline {subsubsection}{\numberline {4.2.2.5}Calculando o nível de Sigma}{14}
+\contentsline {subsubsection}{\numberline {4.2.2.6}Preparação para a próxima fase}{14}
+\contentsline {subsection}{\numberline {4.2.3}Analisar}{14}
+\contentsline {subsubsection}{\numberline {4.2.3.1}Melhorar}{14}
+\contentsline {subsubsection}{\numberline {4.2.3.2}Objetivo}{14}
+\contentsline {subsubsection}{\numberline {4.2.3.3}Achando a causa raiz}{14}
+\contentsline {subsubsection}{\numberline {4.2.3.4}Diagrama de causa e efeito}{14}
+\contentsline {subsubsection}{\numberline {4.2.3.5}Confirmando a causa raiz}{14}
+\contentsline {subsubsection}{\numberline {4.2.3.6}Preparação para a próxima fase}{14}
+\contentsline {subsection}{\numberline {4.2.4}Melhorar}{14}
+\contentsline {subsubsection}{\numberline {4.2.4.1}Objetivo}{14}
+\contentsline {subsubsection}{\numberline {4.2.4.2}Identificando a solução}{14}
+\contentsline {subsubsection}{\numberline {4.2.4.3}Selecionando a solução}{14}
+\contentsline {subsubsection}{\numberline {4.2.4.4}Implementando a solução}{14}
+\contentsline {subsubsection}{\numberline {4.2.4.5}Avaliando as melhorias}{14}
+\contentsline {subsubsection}{\numberline {4.2.4.6}Preparação para a próxima fase}{14}
+\contentsline {subsection}{\numberline {4.2.5}Controlar}{14}
+\contentsline {subsubsection}{\numberline {4.2.5.1}Objetivo}{14}
+\contentsline {subsubsection}{\numberline {4.2.5.2}Padronizando e documentando}{14}
+\contentsline {subsubsection}{\numberline {4.2.5.3}Monitorando o processo}{14}
+\contentsline {section}{\numberline {4.3}DMADV}{14}
+\contentsline {subsection}{\numberline {4.3.1}Definir}{14}
+\contentsline {subsection}{\numberline {4.3.2}Medir}{14}
+\contentsline {subsection}{\numberline {4.3.3}Analisar}{14}
+\contentsline {subsection}{\numberline {4.3.4}Projetar}{14}
+\contentsline {subsection}{\numberline {4.3.5}Verificar}{14}
+\contentsline {section}{\numberline {4.4}DMAIC vs DMADV}{14}
+\contentsline {chapter}{\numberline {5}Conclusão}{15}
+\contentsline {chapter}{Refer\^encias}{16}
