@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.26)  16 SEP 2012 13:01
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.26)  16 SEP 2012 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -531,35 +531,41 @@ Cap\'{\i }tulo 2.
 
 ]
 Cap\'{\i }tulo 3.
-[9
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 72.
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 72.
+ [9
 
-]
+] [10]
 Cap\'{\i }tulo 4.
-[10
+[11
 
 ]
 Overfull \vbox (483.12822pt too high) has occurred while \output is active []
 
 
-[11]
+[12]
 Cap\'{\i }tulo 5.
-[12
+[13
 
 ]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
-[13
+[14
 
 ] (./SixSigma.aux) ) 
 Here is how much of TeX's memory you used:
- 5124 strings out of 495659
- 74341 string characters out of 3186569
+ 5141 strings out of 495659
+ 74648 string characters out of 3186569
  130344 words of memory out of 3000000
- 8180 multiletter control sequences out of 15000+200000
+ 8194 multiletter control sequences out of 15000+200000
  66840 words of font info for 47 fonts, out of 3000000 for 9000
  38 hyphenation exceptions out of 8191
- 38i,5n,38p,237b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,5n,38p,237b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on SixSigma.pdf (14 pages).
+Output written on SixSigma.pdf (15 pages).
