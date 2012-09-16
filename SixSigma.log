@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.26)  15 SEP 2012 17:02
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.26)  16 SEP 2012 13:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -469,39 +469,39 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count125
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 23.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 21.
  (/usr/local/texlive/2012basic/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 23.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 21.
 
 (/usr/local/texlive/2012basic/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 21.
 
 
 (/usr/local/texlive/2012basic/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 23.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 21.
 
 
 (/usr/local/texlive/2012basic/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 23.
+(Font)              <12> on input line 21.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 23.
+(Font)              <8> on input line 21.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 23.
-LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+(Font)              <6> on input line 21.
+LaTeX Font Info:    Try loading font information for U+msa on input line 21.
 
 (/usr/local/texlive/2012basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+LaTeX Font Info:    Try loading font information for U+msb on input line 21.
 
 (/usr/local/texlive/2012basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
