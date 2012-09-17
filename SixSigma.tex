@@ -1,28 +1,60 @@
 \documentclass{abnt}
 \input{Base}
 
-\author{
-	Matheus Liberato Domingues da Silva, \texttt{matheusliberatosbs@gmail.com} \and
-	Guilherme Augusto de Macedo, \texttt{gaugustomacedo@gmail.com} \and
-	Victor Hugo Carlquist da Silva, \texttt{victorcarlquist@gmail.com} \and
-	Denis Fournier de Carvalho, \texttt{denao\_carvalho@hotmail.com} 
+%%%%% Dados para criação da capa e folha de rosto %%%%
+\autor{	Denis F. de Carvalho, 
+		Guilherme A. de Macedo, 
+		Matheus L. Domingues da Silva e 
+		Victor H. Carlquist da Silva
 }
-
-\title{ Sistema Seis Sigma de Produção}
-\date{\today}
+\titulo{Sistema Seis Sigma de Produção}
+\orientador{Avelino Bazanella Junior}
+\comentario{Trabalho apresentado ao Prof. Avelino Bazanela Junior, na disciplina de Administração 
+			presente no $2^{a}$ modulo do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP-CJO.}
+\instituicao{Instituto Federal de Educação, Ciência e Tecnologia de São Paulo -- \textit{campus} Campos do Jordão}
+\local{Campos do Jordão}
+\data{\today}
 
 \begin{document}
-	\maketitle
-	\tableofcontents
+
+	% Para utilizar o formato padrão de capa da ABNT, substituí o comando \maketitle pelo comando \capa.
+	\capa
+	
+	\folhaderosto
+	
+	\begin{resumo}
+		Este trabalho tem por objetivo mostrar e explicar o funcionamento do programa Seis Sigma. A construção 
+		desse trabalho foi baseada em pesquisas em \textit{sites} especializados, gráficos e tabelas, bem como a consulta 
+		de livros especializados.
+	\end{resumo}
 
 	\begin{abstract}
-		Your abstract goes here...
-		...
+			This work aims to show and explain the workings of the Six Sigma program. The construction of this work 
+			was based on research on specialized sites, graphs and tables, and consultation of specialized books.
 	\end{abstract}
+	
+	\sumario
+	
+	\listadetabelas
+	
+	\listadefiguras
 	
 	\chapter {Introdução}
 	
+	Seis Sigma (six-sigma ou $\sigma$-seis) é um programa de melhoria de processo baseado numa 
+	metodologia de solução de problemas composto por cinco etapas: Definição, Medição, Análise, 
+	Melhoria e Controle. Em sua forma mais geral, o Seis Sigma é uma forma de avaliar os níveis 
+	de produção de uma empresa. O Seis Sigma foi inicialmente desenvolvido visando a melhoria nos 
+	processos de manufaturas, porém hoje é utilizado pelas empresas em quaisquer tipos de processos, 
+	incluindo até os processos de TI (Tecnologia da Informação).
+	
+	O conceito do Seis Sigma é estabelecer uma métrica universal para medir os defeitos de um processo. 
+	Essa métrica estabelece que quanto mais alto o nível de sigma, melhores serão os produtos produzidos, 
+	porém quanto menor for o nível de sigma, maior será a quantidade de produtos ruins produzidos pela empresa.
+	
 	\chapter {História}
+	
+	O Seis Sigma foi inicialmente desenvolvido pela Motorola.
 	
 	\chapter {Níveis de Sigma}
 		\section {Introdução}
@@ -34,7 +66,11 @@
 			    \begin{equation}
 			       Z = \frac{x - \mu}{\sigma}
 		        \end{equation}
-		     x = ponto que se deseja converter em Z; $\mu$ =  média da normal original ; $\sigma$ = desvio padrão da normal original
+		     	\begin{itemize}
+		     		\item[$x$] ponto que se deseja converter em $Z$;
+		     		\item[$\mu$] média da normal original;
+		     		\item[$\sigma$] desvio padrão da normal original.
+		     	\end{itemize}
 			\end{center}
 			
 			 
@@ -54,6 +90,30 @@
 			    \item {6 Sigma}
 			        \subitem O 6 Sigma tolera até 3,4 (PPM), possuindo um fator de sucesso do processo de 99,99966\%.
 			\end{itemize}
+			
+			Dessa forma os níveis de qualidade do sigma podem ser melhores visualizados com base na tabela a seguir:
+			\begin{table}[h]
+				\centering
+				\rowcolors{2}{gray!10}{white}
+
+				\begin{tabular}{rcr}
+					\toprule
+					Sigma & Problemas por Milhão (PPM) & Porcentagem (\%) \\
+					\midrule
+					 1 & 697700	& 30,23 	\\
+					 2 & 308700 & 69,13 	\\
+					 3 & 66810 	& 93,32 	\\
+					 4 & 6210 	& 99,379 	\\
+					 5 & 233 	& 99,9767 	\\
+					 6 & 3,4 	& 99,99966 	\\
+					\bottomrule		
+				\end{tabular}
+	
+				\label{tab_niveisSigma}
+				\caption{Níveis de Sigma.}
+				
+			\end{table}
+
 		\section {Curva Normal} 
 		    
 		\section {Vantagens do 6 Sigma}
@@ -99,5 +159,10 @@
 			\section {DMAIC vs DMADV}
 	
 	\chapter {Conclusão}
+	
+	%\chapter{Referências Bibliográficas}
+	\begin{thebibliography}{99}
+		\bibitem{teste} teste
+	\end{thebibliography}
 
 \end{document}
