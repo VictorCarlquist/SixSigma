@@ -9,43 +9,40 @@
 \contentsline {section}{\numberline {3.3}Curva Normal}{11}
 \contentsline {section}{\numberline {3.4}Vantagens do 6 Sigma}{11}
 \contentsline {chapter}{\numberline {4}Metodologias}{12}
-\contentsline {section}{\numberline {4.1}Introdução}{13}
-\contentsline {section}{\numberline {4.2}DMAIC}{13}
-\contentsline {subsection}{\numberline {4.2.1}Definir}{13}
-\contentsline {subsubsection}{Objetivo}{13}
+\contentsline {section}{\numberline {4.1}Introdução}{12}
+\contentsline {section}{\numberline {4.2}DMAIC}{12}
+\contentsline {subsection}{\numberline {4.2.1}Definir}{12}
+\contentsline {subsubsection}{Objetivo}{12}
 \contentsline {subsubsection}{Entendendo o processo}{13}
-\contentsline {subsubsection}{Preparação para a próxima fase}{13}
 \contentsline {subsection}{\numberline {4.2.2}Medir}{13}
 \contentsline {subsubsection}{Objetivo}{13}
 \contentsline {subsubsection}{Mapeando processo}{13}
-\contentsline {subsubsection}{Coletando os dados}{13}
-\contentsline {subsubsection}{Analisando os dados coletados}{13}
-\contentsline {subsubsection}{Calculando o nível de Sigma}{13}
-\contentsline {subsubsection}{Preparação para a próxima fase}{13}
-\contentsline {subsection}{\numberline {4.2.3}Analisar}{13}
-\contentsline {subsubsection}{Melhorar}{13}
-\contentsline {subsubsection}{Objetivo}{13}
-\contentsline {subsubsection}{Achando a causa raiz}{13}
-\contentsline {subsubsection}{Diagrama de causa e efeito}{13}
-\contentsline {subsubsection}{Confirmando a causa raiz}{13}
-\contentsline {subsubsection}{Preparação para a próxima fase}{13}
-\contentsline {subsection}{\numberline {4.2.4}Melhorar}{13}
-\contentsline {subsubsection}{Objetivo}{13}
-\contentsline {subsubsection}{Identificando a solução}{13}
-\contentsline {subsubsection}{Selecionando a solução}{13}
-\contentsline {subsubsection}{Implementando a solução}{13}
-\contentsline {subsubsection}{Avaliando as melhorias}{13}
-\contentsline {subsubsection}{Preparação para a próxima fase}{13}
-\contentsline {subsection}{\numberline {4.2.5}Controlar}{13}
-\contentsline {subsubsection}{Objetivo}{13}
-\contentsline {subsubsection}{Padronizando e documentando}{13}
-\contentsline {subsubsection}{Monitorando o processo}{13}
-\contentsline {section}{\numberline {4.3}DMADV}{13}
-\contentsline {subsection}{\numberline {4.3.1}Definir}{13}
-\contentsline {subsection}{\numberline {4.3.2}Medir}{13}
-\contentsline {subsection}{\numberline {4.3.3}Analisar}{13}
-\contentsline {subsection}{\numberline {4.3.4}Projetar}{13}
-\contentsline {subsection}{\numberline {4.3.5}Verificar}{13}
-\contentsline {section}{\numberline {4.4}DMAIC vs DMADV}{13}
-\contentsline {chapter}{\numberline {5}Conclusão}{14}
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{15}
+\contentsline {subsubsection}{Coletando os dados}{14}
+\contentsline {subsubsection}{Analisando os dados coletados}{14}
+\contentsline {subsubsection}{Calculando o nível de Sigma}{14}
+\contentsline {subsection}{\numberline {4.2.3}Analisar}{14}
+\contentsline {subsubsection}{Objetivo}{14}
+\contentsline {subsubsection}{Causa raiz}{15}
+\contentsline {subsubsection}{Diagrama de causa e efeito}{15}
+\contentsline {subsection}{\numberline {4.2.4}Melhorar}{15}
+\contentsline {subsubsection}{Objetivo}{15}
+\contentsline {subsubsection}{Identificando a solução}{15}
+\contentsline {subsubsection}{Selecionando a solução}{16}
+\contentsline {subsubsection}{Implementando a solução}{16}
+\contentsline {subsubsection}{Avaliando as melhorias}{16}
+\contentsline {subsection}{\numberline {4.2.5}Controlar}{16}
+\contentsline {subsubsection}{Objetivo}{16}
+\contentsline {subsubsection}{Padronizando e documentando}{16}
+\contentsline {subsubsection}{Monitorando o processo}{17}
+\contentsline {section}{\numberline {4.3}DMADV}{17}
+\contentsline {subsection}{\numberline {4.3.1}Definir}{17}
+\contentsline {subsection}{\numberline {4.3.2}Medir}{17}
+\contentsline {subsection}{\numberline {4.3.3}Analisar}{18}
+\contentsline {subsection}{\numberline {4.3.4}Projetar}{18}
+\contentsline {subsection}{\numberline {4.3.5}Verificar}{18}
+\contentsline {section}{\numberline {4.4}DMAIC vs DMADV}{18}
+\contentsline {subsection}{\numberline {4.4.1}Definir}{19}
+\contentsline {subsection}{\numberline {4.4.2}Medir}{19}
+\contentsline {subsection}{\numberline {4.4.3}Analisar}{19}
+\contentsline {chapter}{\numberline {5}Conclusão}{20}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{21}
