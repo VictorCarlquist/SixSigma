@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.26)  21 SEP 2012 08:33
+=======
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2012.9.15)  21 SEP 2012 15:12
+>>>>>>> c7078ebb81cbf81f723a5633e0062ae73491b144
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -981,23 +985,29 @@ Cap\'{\i }tulo 3.
 
 ] [12]
 File: img/curva.jpg Graphic file (type QTm)
+<<<<<<< HEAD
  <use  "img/curva.jpg" > [13]
+=======
+ <use  "img/curva.jpg" >
+[12]
+>>>>>>> c7078ebb81cbf81f723a5633e0062ae73491b144
 Cap\'{\i }tulo 4.
-[14
+[13
 
-] [15] [16] [17] [18] [19] [20] [21]
+] [14] [15] [16] [17] [18] [19] [20]
 Cap\'{\i }tulo 5.
-[22
+[21
 
 ]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
-[23
+[22
 
 ] (./SixSigma.aux) ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  19429 strings out of 495659
  387573 string characters out of 3186569
  399152 words of memory out of 3000000
@@ -1005,5 +1015,14 @@ Here is how much of TeX's memory you used:
  17122 words of font info for 52 fonts, out of 3000000 for 9000
  38 hyphenation exceptions out of 8191
  45i,10n,74p,811b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
+=======
+ 5947 strings out of 495708
+ 82612 string characters out of 1188843
+ 148185 words of memory out of 3000000
+ 8927 multiletter control sequences out of 15000+50000
+ 70044 words of font info for 53 fonts, out of 3000000 for 9000
+ 30 hyphenation exceptions out of 8191
+ 43i,10n,41p,259b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
+>>>>>>> c7078ebb81cbf81f723a5633e0062ae73491b144
 
-Output written on SixSigma.pdf (24 pages).
+Output written on SixSigma.pdf (23 pages).

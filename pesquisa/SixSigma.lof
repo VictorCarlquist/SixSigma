@@ -1,2 +1,6 @@
 \select@language {brazilian}
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {1}{\ignorespaces Curva Normal\relax }}{13}
+=======
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Curva Normal.\relax }}{12}
+>>>>>>> c7078ebb81cbf81f723a5633e0062ae73491b144
