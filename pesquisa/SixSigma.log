@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2012.9.15)  19 SEP 2012 17:14
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2012.9.15)  21 SEP 2012 15:12
 entering extended mode
  %&-line parsing enabled.
 **SixSigma.tex
@@ -612,29 +612,29 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 ] [11]
 File: img/curva.jpg Graphic file (type QTm)
  <use  "img/curva.jpg" >
-[12] [13]
+[12]
 Cap\'{\i }tulo 4.
-[14
+[13
 
-] [15] [16] [17] [18] [19] [20] [21]
+] [14] [15] [16] [17] [18] [19] [20]
 Cap\'{\i }tulo 5.
-[22
+[21
 
 ]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
-[23
+[22
 
 ] (./SixSigma.aux) ) 
 Here is how much of TeX's memory you used:
- 5946 strings out of 495708
- 82594 string characters out of 1188843
+ 5947 strings out of 495708
+ 82612 string characters out of 1188843
  148185 words of memory out of 3000000
- 8926 multiletter control sequences out of 15000+50000
+ 8927 multiletter control sequences out of 15000+50000
  70044 words of font info for 53 fonts, out of 3000000 for 9000
  30 hyphenation exceptions out of 8191
  43i,10n,41p,259b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on SixSigma.pdf (24 pages).
+Output written on SixSigma.pdf (23 pages).
