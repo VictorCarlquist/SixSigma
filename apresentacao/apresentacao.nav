@@ -1,19 +1,8 @@
-<<<<<<< HEAD
 \beamer@endinputifotherversion {3.21pt}
-=======
-\beamer@endinputifotherversion {3.10pt}
->>>>>>> c7078ebb81cbf81f723a5633e0062ae73491b144
 \headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
 \headcommand {\beamer@framepages {1}{1}}
 \headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
 \headcommand {\beamer@framepages {2}{2}}
-<<<<<<< HEAD
-\headcommand {\beamer@partpages {1}{2}}
-\headcommand {\beamer@subsectionpages {1}{2}}
-\headcommand {\beamer@sectionpages {1}{2}}
-\headcommand {\beamer@documentpages {2}}
-\headcommand {\def \inserttotalframenumber {2}}
-=======
 \headcommand {\slideentry {0}{0}{3}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
 \headcommand {\slideentry {0}{0}{4}{4/4}{}{0}}
@@ -33,4 +22,3 @@
 \headcommand {\beamer@sectionpages {1}{9}}
 \headcommand {\beamer@documentpages {9}}
 \headcommand {\def \inserttotalframenumber {9}}
->>>>>>> c7078ebb81cbf81f723a5633e0062ae73491b144

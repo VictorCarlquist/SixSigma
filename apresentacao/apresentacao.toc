@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 \beamer@endinputifotherversion {3.21pt}
-=======
-\beamer@endinputifotherversion {3.10pt}
->>>>>>> c7078ebb81cbf81f723a5633e0062ae73491b144
 \select@language {brazil}
